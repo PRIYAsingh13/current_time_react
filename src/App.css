@@ -14,10 +14,10 @@ div{
 button{
   background-color: rgb(133, 58, 58);
   font-size: x-large;
-  padding: 1% 2%;
+  padding: 10px ;
   border: none;
   color: white;
-  border-radius: 10%;
+  border-radius: 20px;
 }
 button:hover{
   cursor: pointer;
